@@ -1,5 +1,9 @@
 # awesome-earth
 
+## K-12 Education Resources
+
+- [The My NASA Data](https://mynasadata.larc.nasa.gov/) website provides resources for students and teachers to explore Earth Science phenomena in the Atmosphere, Biosphere, Cryosphere, Geosphere, and Hydrosphere using NASA-related content. The website offers mini-lessons, lesson plans, story maps, STEM career connections, GLOBE connections, and scientifically interesting stories. These resources provide guiding questions and other teacher tools to help students access and analyze NASA data. The website also features a data visualization tool called the Earth System Data Explorer that allows users to interact with NASA Earth Science satellite data.
+
 
 ## Developer Resources 
 
