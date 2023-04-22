@@ -8,4 +8,4 @@ This is the documentation page for Continuous Degradation Detection (CODED), whi
 
 
 
-- [Awesome-GEE](https://github.com/opengeos/Awesome-GEE)This is a curated list of resources related to Google Earth Engine. It includes links to official Earth Engine websites, JavaScript, Python, and R APIs, GitHub repositories, tutorials, books, and free courses. The list also contains links to Earth Engine apps, projects, datasets, and papers. There are also resources related to QGIS, GitHub developers, Twitter accounts, and presentations. The list is maintained on the Awesome-GEE GitHub repo and is open for contributions.
+- [Awesome-GEE](https://github.com/opengeos/Awesome-GEE) This is a curated list of resources related to Google Earth Engine. It includes links to official Earth Engine websites, JavaScript, Python, and R APIs, GitHub repositories, tutorials, books, and free courses. The list also contains links to Earth Engine apps, projects, datasets, and papers. There are also resources related to QGIS, GitHub developers, Twitter accounts, and presentations. The list is maintained on the Awesome-GEE GitHub repo and is open for contributions.
